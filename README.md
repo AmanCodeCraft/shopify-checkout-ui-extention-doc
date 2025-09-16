@@ -71,7 +71,7 @@ shopify app deploy
 # This builds your project, creates an "app version" on Shopify’s servers, and deploys it.
 # 👉 After this step, your extension can be used in your store or submitted to Shopify.
 
-
+store ke sath link hona jruri hai, app ko generate krne k baad app install krna jruri hai 
 
 
 
