@@ -73,7 +73,7 @@ shopify app deploy
 
 store ke sath link hona jruri hai, app ko generate krne k baad app install krna jruri hai 
 
-
+my documentation url : https://docs.google.com/document/d/1pFPqnyFPXe18hg4KEvhBb4-9G0HK1UKiyDVYTgsZT6I/edit?tab=t.0
 
 
 
